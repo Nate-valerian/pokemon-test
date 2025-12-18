@@ -1,38 +1,4 @@
-<div align="center">
-  <br />
-    <a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-      <img width="3600" height="1040" alt="image (56)" src="https://github.com/user-attachments/assets/74afdf8a-95c2-4748-891a-cba2fb0350da" />
-    </a>
-  <br />
 
-  <div>
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
-    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-    <img src="https://img.shields.io/badge/-ShadCN_UI-black?style=for-the-badge&logoColor=white&logo=shadcnui&color=000000" alt="shadcnui" />
-    <img src="https://img.shields.io/badge/-Vitest-black?style=for-the-badge&logoColor=white&logo=vitest&color=6E9F18" alt="vitest" />
-    <img src="https://img.shields.io/badge/-Recharts-black?style=for-the-badge&logoColor=white&logo=recharts&color=61DAFB" alt="recharts" />
-    <img src="https://img.shields.io/badge/-Radix_UI-black?style=for-the-badge&logoColor=white&logo=radixui&color=161618" alt="radixui" />
-  </div>
-
-  <h3 align="center">The Complete Testing Course</h3>
-  <p aligh="center">A modern, responsive web application for exploring Pokemon, comparing their stats, and simulating battles. Built with Next.js 15, TypeScript, and Tailwind CSS.</p>
-
-   <div align="center">
-     Build this project step by step with our detailed course on <a href="https://www.jsmastery.pro" target="_blank"><b>JavaScript Mastery PRO</b></a> Website. Join the JSM PRO family!
-    </div>
-</div>
-
-## 🚨 JSM Testing Course
-
-This repository contains the code corresponding to our in-depth **Next.js Testing Course** available on the  
-<a href="https://jsmastery.com/course/the-complete-next-js-testing-course" target="_blank"><b>JavaScript Mastery Pro Website</b></a>.
-
-Learn how to write reliable tests for your Next.js applications, handle edge cases, and ensure your code is maintainable and bug-free. This course guides you step-by-step, making testing approachable for beginners and intermediate developers alike.
-
-<a href="https://jsmastery.com/course/the-complete-next-js-testing-course" target="_blank">
-  <img src="https://github.com/user-attachments/assets/54ef6cd0-1f00-4989-a6a5-3f77ca3f68a2" style="width: 150px; height: auto;" alt="JSM Testing Course" />
-</a>
 
 ## ✨ Features
 
